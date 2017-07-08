@@ -63,3 +63,20 @@ Output File: Script923_Output.png
 4. List the name of students who are from Oregon and persuing BE.
 PIG Script File: script924.pig
 Output File: Script924_Output.png
+
+-------------------------------------------------------------------------------------------------------
+Assignment 9.3
+
+Dataset: Pokemon.csv file
+
+Problem Statement
+We have Pokemon file. Use MR mode while running Pig and write Pig Latin
+script to get below results:
+Form two lists of 5 randomly selected Pokémons with some parameters listed below.
+1) For all Pokemon DEFENCE must be greater than 55
+2) random() is must to use in the script.
+3) List should be arranged in descending order
+4) Store the list in Local Drive.
+
+PIG Script File: script93.pig
+Output File: Script93_Output.png

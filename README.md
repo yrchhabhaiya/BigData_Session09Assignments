@@ -34,3 +34,32 @@ Output File: Script913_Output.png
 PIG Script File: script914.pig
 Output File: Script914_Output.png
 
+-------------------------------------------------------------------------------------------------------
+Assignment 9.2
+
+Data Dictionary
+1. Name : chararray
+2. Col.Undertaken : chararray
+3. Dob : chararray
+4. Stream : chararray
+5. Grade : float
+6. State : chararray
+7. City : chararray
+https://github.com/prateekATacadgild/mAPrEDuce/blob/master/studentDS
+
+Problem Statements
+1. Find the number of students who scored less than 5(50%).
+PIG Script File: script921.pig
+Output File: Script921_Output.png
+
+2. List the name of students who are from Alaska.
+PIG Script File: script922.pig
+Output File: Script922_Output.png
+
+3. How many government collages are there in Alabama?
+PIG Script File: script923.pig
+Output File: Script923_Output.png
+
+4. List the name of students who are from Oregon and persuing BE.
+PIG Script File: script924.pig
+Output File: Script924_Output.png
